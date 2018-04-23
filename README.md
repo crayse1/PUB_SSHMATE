@@ -1,5 +1,5 @@
 # PUB_SSHMATE
-### This is a tool designed for admins to run commands on one or more devices. This tool is useful if you support Cisco and need to run commands on a regular basis on you devices. You setup a batch file that will run the tool as many times as needed.
+### This is a tool designed for admins to run commands on one or more devices. This tool is useful if you support Cisco and need to run commands on a regular basis on you devices. You setup a batch file that will run the tool as many times as needed. Use the "-shell" argument to enter commands in the same shell instead of reconnecting to the device or server for each command.
 
 ### View Website: https://crayse1.github.io/PUB_SSHMATE/
 
