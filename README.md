@@ -5,6 +5,8 @@
 
 ![SSHMATE1](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE1.png "SSHMATE1")
 ![SSHMATE2](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE2.png "SSHMATE2")
+
+Use MD5HASH.EXE to generate the hash for your passwords to be masked in scripts. Stronger password encryption is still under development working on stronger encryption. 
 ![SSHMATE3](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE3.png "SSHMATE3")
 
 
