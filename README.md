@@ -5,7 +5,7 @@
 
 ![SSHMATE1](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE1.png "SSHMATE1")
 ![SSHMATE2](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE2.png "SSHMATE2")
-![SSHMATE2](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE2.png "SSHMATE2")
+![SSHMATE3](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE3.png "SSHMATE3")
 
 
 ## Download
