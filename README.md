@@ -17,7 +17,7 @@
 **SourceForge Mirror:** [https://sourceforge.net/projects/sshmate/files/latest/download](https://sourceforge.net/projects/sshmate/files/latest/download)
 
 ### Version 1.0
-**GitHub Mirror:**   
+**GitHub Mirror:** [https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE_1_0.zip](https://github.com/crayse1/PUB_SSHMATE/blob/master/SSHMATE_1_0.zip)   
 
 
 ## Future Updates
